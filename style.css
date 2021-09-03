@@ -10,6 +10,7 @@
     clear: both;
 }
 
+/* Body, Header, Main, Footer */
 body{
     padding: 0 250px;
 }
@@ -32,6 +33,7 @@ footer{
     height: 50px;
 }
 
+/* Tabelle */
 .viola{
     background-color: #A162B8;
     width: 100%;
